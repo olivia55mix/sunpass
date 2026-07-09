@@ -1,0 +1,30 @@
+.receipt-box {
+  background: #ffffe0;
+  border: 2px dashed #b5b57a;
+  padding: 30px;
+  border-radius: 4px;
+  position: relative;
+}
+
+.receipt-title {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.receipt-row {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 10px;
+}
+
+.total-row {
+  border-top: 2px dashed #000;
+  margin-top: 15px;
+  padding-top: 15px;
+  font-size: 20px;
+  font-weight: bold;
+}
