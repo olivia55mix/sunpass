@@ -1,0 +1,8 @@
+{
+  "short_name": "SunPass App",
+  "name": "SunPass Toll Expense Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f15a24",
+  "background_color": "#ffffff"
+}
