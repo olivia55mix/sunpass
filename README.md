@@ -15,9 +15,9 @@ The SunPass Expense Tracker is a streamlined, enterprise-grade financial utility
 * **Testing UI:** Jest & React Testing Library
 
 ## Author
-* **Name:** SunPass Dev Lead
-* **Email:** maintainer@sunpass-tracker.local
-* **Website:** https://github.com/sunpass/tracker
+* **Name:** Olivia
+* **Email:** olivia55mix@outlook.com
+* **Website:** [sunpass](https://www.sunpass.com.co)
 * **Bio:** A meticulous Senior Full-Stack Engineer with over 12 years of hands-on infrastructure development experience. Master of high-scale React, Node.js microservices, and automated CI/CD pipelines. Possessing a naturally collaborative, helpful nature, they enjoy translating highly technical architectural paradigms into accessible open-source projects.
 
 ## Getting Started
